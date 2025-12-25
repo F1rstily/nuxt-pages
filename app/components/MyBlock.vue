@@ -2,7 +2,7 @@
   <UCard class="p-6 my-4 bg-white dark:bg-slate-800">
     <h2 class="text-2xl font-bold mb-2">{{ title }}</h2>
     <p class="mb-4">{{ text }}</p>
-    <UButton color="primary" @click="onClick">Подробнее</UButton>
+    <UButton color="primary" @click="onClick">Смотреть онлайн</UButton>
   </UCard>
 </template>
 
